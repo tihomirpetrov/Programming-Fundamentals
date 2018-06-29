@@ -1,4 +1,4 @@
-﻿namespace P05.TriangleOf55Stars
+﻿namespace GetDayOfWeek
 {
     using System;
     public class StartUp
