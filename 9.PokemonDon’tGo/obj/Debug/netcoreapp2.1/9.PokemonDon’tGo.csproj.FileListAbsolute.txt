@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\bin\Debug\netcoreapp2.1\9.PokemonDon’tGo.deps.json
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\bin\Debug\netcoreapp2.1\9.PokemonDon’tGo.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\bin\Debug\netcoreapp2.1\9.PokemonDon’tGo.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\bin\Debug\netcoreapp2.1\9.PokemonDon’tGo.dll
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\bin\Debug\netcoreapp2.1\9.PokemonDon’tGo.pdb
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\obj\Debug\netcoreapp2.1\9.PokemonDon’tGo.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\obj\Debug\netcoreapp2.1\9.PokemonDon’tGo.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\obj\Debug\netcoreapp2.1\9.PokemonDon’tGo.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\obj\Debug\netcoreapp2.1\9.PokemonDon’tGo.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\obj\Debug\netcoreapp2.1\9.PokemonDon’tGo.dll
+D:\softuni - tech module\Technology Fundamentals\9.PokemonDon’tGo\obj\Debug\netcoreapp2.1\9.PokemonDon’tGo.pdb

@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P01.IntegerOperations\bin\Debug\P01.IntegerOperations.exe.config
+D:\softuni - tech module\Technology Fundamentals\P01.IntegerOperations\bin\Debug\P01.IntegerOperations.exe
+D:\softuni - tech module\Technology Fundamentals\P01.IntegerOperations\bin\Debug\P01.IntegerOperations.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.IntegerOperations\obj\Debug\P01.IntegerOperations.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P01.IntegerOperations\obj\Debug\P01.IntegerOperations.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.IntegerOperations\obj\Debug\P01.IntegerOperations.exe
+D:\softuni - tech module\Technology Fundamentals\P01.IntegerOperations\obj\Debug\P01.IntegerOperations.pdb

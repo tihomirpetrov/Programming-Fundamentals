@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P04.LongestIncreasingSubsequence(LIS)\bin\Debug\P04.LongestIncreasingSubsequence(LIS).exe.config
+D:\softuni - tech module\Technology Fundamentals\P04.LongestIncreasingSubsequence(LIS)\bin\Debug\P04.LongestIncreasingSubsequence(LIS).exe
+D:\softuni - tech module\Technology Fundamentals\P04.LongestIncreasingSubsequence(LIS)\bin\Debug\P04.LongestIncreasingSubsequence(LIS).pdb
+D:\softuni - tech module\Technology Fundamentals\P04.LongestIncreasingSubsequence(LIS)\obj\Debug\P04.LongestIncreasingSubsequence(LIS).csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04.LongestIncreasingSubsequence(LIS)\obj\Debug\P04.LongestIncreasingSubsequence(LIS).exe
+D:\softuni - tech module\Technology Fundamentals\P04.LongestIncreasingSubsequence(LIS)\obj\Debug\P04.LongestIncreasingSubsequence(LIS).pdb
+D:\softuni - tech module\Technology Fundamentals\P04.LongestIncreasingSubsequence(LIS)\obj\Debug\P04.LongestIncreasingSubsequence(LIS).csprojAssemblyReference.cache

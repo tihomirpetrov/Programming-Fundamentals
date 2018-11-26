@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\bin\Debug\netcoreapp2.1\5.ListManipulationBasics.deps.json
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\bin\Debug\netcoreapp2.1\5.ListManipulationBasics.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\bin\Debug\netcoreapp2.1\5.ListManipulationBasics.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\bin\Debug\netcoreapp2.1\5.ListManipulationBasics.dll
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\bin\Debug\netcoreapp2.1\5.ListManipulationBasics.pdb
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\obj\Debug\netcoreapp2.1\5.ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\obj\Debug\netcoreapp2.1\5.ListManipulationBasics.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\obj\Debug\netcoreapp2.1\5.ListManipulationBasics.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\obj\Debug\netcoreapp2.1\5.ListManipulationBasics.dll
+D:\softuni - tech module\Technology Fundamentals\ListManipulationBasics\obj\Debug\netcoreapp2.1\5.ListManipulationBasics.pdb

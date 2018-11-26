@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\bin\Debug\netcoreapp2.1\6.CardsGame.deps.json
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\bin\Debug\netcoreapp2.1\6.CardsGame.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\bin\Debug\netcoreapp2.1\6.CardsGame.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\bin\Debug\netcoreapp2.1\6.CardsGame.dll
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\bin\Debug\netcoreapp2.1\6.CardsGame.pdb
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\obj\Debug\netcoreapp2.1\6.CardsGame.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\obj\Debug\netcoreapp2.1\6.CardsGame.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\obj\Debug\netcoreapp2.1\6.CardsGame.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\obj\Debug\netcoreapp2.1\6.CardsGame.dll
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\obj\Debug\netcoreapp2.1\6.CardsGame.pdb
+D:\softuni - tech module\Technology Fundamentals\6.CardsGame\obj\Debug\netcoreapp2.1\6.CardsGame.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\bin\Debug\netcoreapp2.1\5TopIntegers.deps.json
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\bin\Debug\netcoreapp2.1\5TopIntegers.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\bin\Debug\netcoreapp2.1\5TopIntegers.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\bin\Debug\netcoreapp2.1\5TopIntegers.dll
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\bin\Debug\netcoreapp2.1\5TopIntegers.pdb
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\obj\Debug\netcoreapp2.1\5TopIntegers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\obj\Debug\netcoreapp2.1\5TopIntegers.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\obj\Debug\netcoreapp2.1\5TopIntegers.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\obj\Debug\netcoreapp2.1\5TopIntegers.dll
+D:\softuni - tech module\Technology Fundamentals\5TopIntegers\obj\Debug\netcoreapp2.1\5TopIntegers.pdb

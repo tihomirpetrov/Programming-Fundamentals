@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P03.HouseParty\bin\Debug\P03.HouseParty.exe.config
+D:\softuni - tech module\Technology Fundamentals\P03.HouseParty\bin\Debug\P03.HouseParty.exe
+D:\softuni - tech module\Technology Fundamentals\P03.HouseParty\bin\Debug\P03.HouseParty.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.HouseParty\obj\Debug\P03.HouseParty.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P03.HouseParty\obj\Debug\P03.HouseParty.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.HouseParty\obj\Debug\P03.HouseParty.exe
+D:\softuni - tech module\Technology Fundamentals\P03.HouseParty\obj\Debug\P03.HouseParty.pdb

@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.deps.json
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.dll
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.pdb
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.dll
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.pdb
+D:\softuni - tech module\Technology Fundamentals\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.csprojAssemblyReference.cache

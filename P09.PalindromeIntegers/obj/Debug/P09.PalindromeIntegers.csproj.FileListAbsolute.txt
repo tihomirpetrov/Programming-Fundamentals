@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P09.PalindromeIntegers\bin\Debug\P09.PalindromeIntegers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P09.PalindromeIntegers\bin\Debug\P09.PalindromeIntegers.exe
+D:\softuni - tech module\Technology Fundamentals\P09.PalindromeIntegers\bin\Debug\P09.PalindromeIntegers.pdb
+D:\softuni - tech module\Technology Fundamentals\P09.PalindromeIntegers\obj\Debug\P09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P09.PalindromeIntegers\obj\Debug\P09.PalindromeIntegers.exe
+D:\softuni - tech module\Technology Fundamentals\P09.PalindromeIntegers\obj\Debug\P09.PalindromeIntegers.pdb
+D:\softuni - tech module\Technology Fundamentals\P09.PalindromeIntegers\obj\Debug\P09.PalindromeIntegers.csprojAssemblyReference.cache

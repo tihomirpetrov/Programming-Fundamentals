@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P12.EvenNumber\bin\Debug\P12.EvenNumber.exe.config
+D:\softuni - tech module\Technology Fundamentals\P12.EvenNumber\bin\Debug\P12.EvenNumber.exe
+D:\softuni - tech module\Technology Fundamentals\P12.EvenNumber\bin\Debug\P12.EvenNumber.pdb
+D:\softuni - tech module\Technology Fundamentals\P12.EvenNumber\obj\Debug\P12.EvenNumber.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P12.EvenNumber\obj\Debug\P12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P12.EvenNumber\obj\Debug\P12.EvenNumber.exe
+D:\softuni - tech module\Technology Fundamentals\P12.EvenNumber\obj\Debug\P12.EvenNumber.pdb

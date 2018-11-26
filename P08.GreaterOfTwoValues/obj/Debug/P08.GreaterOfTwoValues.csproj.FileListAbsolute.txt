@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P08.GreaterOfTwoValues\bin\Debug\P08.GreaterOfTwoValues.exe.config
+D:\softuni - tech module\Technology Fundamentals\P08.GreaterOfTwoValues\bin\Debug\P08.GreaterOfTwoValues.exe
+D:\softuni - tech module\Technology Fundamentals\P08.GreaterOfTwoValues\bin\Debug\P08.GreaterOfTwoValues.pdb
+D:\softuni - tech module\Technology Fundamentals\P08.GreaterOfTwoValues\obj\Debug\P08.GreaterOfTwoValues.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P08.GreaterOfTwoValues\obj\Debug\P08.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P08.GreaterOfTwoValues\obj\Debug\P08.GreaterOfTwoValues.exe
+D:\softuni - tech module\Technology Fundamentals\P08.GreaterOfTwoValues\obj\Debug\P08.GreaterOfTwoValues.pdb

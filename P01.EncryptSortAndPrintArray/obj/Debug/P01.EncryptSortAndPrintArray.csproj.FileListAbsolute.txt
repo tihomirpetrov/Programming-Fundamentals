@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P01.EncryptSortAndPrintArray\bin\Debug\P01.EncryptSortAndPrintArray.exe.config
+D:\softuni - tech module\Technology Fundamentals\P01.EncryptSortAndPrintArray\bin\Debug\P01.EncryptSortAndPrintArray.exe
+D:\softuni - tech module\Technology Fundamentals\P01.EncryptSortAndPrintArray\bin\Debug\P01.EncryptSortAndPrintArray.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.EncryptSortAndPrintArray\obj\Debug\P01.EncryptSortAndPrintArray.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P01.EncryptSortAndPrintArray\obj\Debug\P01.EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.EncryptSortAndPrintArray\obj\Debug\P01.EncryptSortAndPrintArray.exe
+D:\softuni - tech module\Technology Fundamentals\P01.EncryptSortAndPrintArray\obj\Debug\P01.EncryptSortAndPrintArray.pdb

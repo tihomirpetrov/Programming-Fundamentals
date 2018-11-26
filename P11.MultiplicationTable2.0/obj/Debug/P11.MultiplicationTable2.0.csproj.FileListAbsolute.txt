@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P11.MultiplicationTable2.0\bin\Debug\P11.MultiplicationTable2.0.exe.config
+D:\softuni - tech module\Technology Fundamentals\P11.MultiplicationTable2.0\bin\Debug\P11.MultiplicationTable2.0.exe
+D:\softuni - tech module\Technology Fundamentals\P11.MultiplicationTable2.0\bin\Debug\P11.MultiplicationTable2.0.pdb
+D:\softuni - tech module\Technology Fundamentals\P11.MultiplicationTable2.0\obj\Debug\P11.MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P11.MultiplicationTable2.0\obj\Debug\P11.MultiplicationTable2.0.exe
+D:\softuni - tech module\Technology Fundamentals\P11.MultiplicationTable2.0\obj\Debug\P11.MultiplicationTable2.0.pdb

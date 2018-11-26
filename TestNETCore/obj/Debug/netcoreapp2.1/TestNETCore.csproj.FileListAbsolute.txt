@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\bin\Debug\netcoreapp2.1\TestNETCore.deps.json
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\bin\Debug\netcoreapp2.1\TestNETCore.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\bin\Debug\netcoreapp2.1\TestNETCore.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\bin\Debug\netcoreapp2.1\TestNETCore.dll
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\bin\Debug\netcoreapp2.1\TestNETCore.pdb
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\obj\Debug\netcoreapp2.1\TestNETCore.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\obj\Debug\netcoreapp2.1\TestNETCore.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\obj\Debug\netcoreapp2.1\TestNETCore.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\obj\Debug\netcoreapp2.1\TestNETCore.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\obj\Debug\netcoreapp2.1\TestNETCore.dll
+D:\softuni - tech module\Technology Fundamentals\TestNETCore\obj\Debug\netcoreapp2.1\TestNETCore.pdb

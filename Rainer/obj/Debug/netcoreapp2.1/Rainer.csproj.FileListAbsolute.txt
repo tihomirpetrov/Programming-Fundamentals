@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\Rainer\obj\Debug\netcoreapp2.1\Rainer.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Rainer\obj\Debug\netcoreapp2.1\Rainer.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Rainer\obj\Debug\netcoreapp2.1\Rainer.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\Rainer\bin\Debug\netcoreapp2.1\Rainer.deps.json
+D:\softuni - tech module\Technology Fundamentals\Rainer\bin\Debug\netcoreapp2.1\Rainer.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\Rainer\bin\Debug\netcoreapp2.1\Rainer.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\Rainer\bin\Debug\netcoreapp2.1\Rainer.dll
+D:\softuni - tech module\Technology Fundamentals\Rainer\bin\Debug\netcoreapp2.1\Rainer.pdb
+D:\softuni - tech module\Technology Fundamentals\Rainer\obj\Debug\netcoreapp2.1\Rainer.dll
+D:\softuni - tech module\Technology Fundamentals\Rainer\obj\Debug\netcoreapp2.1\Rainer.pdb
+D:\softuni - tech module\Technology Fundamentals\Rainer\obj\Debug\netcoreapp2.1\Rainer.csprojAssemblyReference.cache

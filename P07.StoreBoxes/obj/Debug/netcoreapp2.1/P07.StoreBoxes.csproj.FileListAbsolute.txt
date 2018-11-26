@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\bin\Debug\netcoreapp2.1\P07.StoreBoxes.deps.json
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\bin\Debug\netcoreapp2.1\P07.StoreBoxes.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\bin\Debug\netcoreapp2.1\P07.StoreBoxes.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\bin\Debug\netcoreapp2.1\P07.StoreBoxes.dll
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\bin\Debug\netcoreapp2.1\P07.StoreBoxes.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\obj\Debug\netcoreapp2.1\P07.StoreBoxes.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\obj\Debug\netcoreapp2.1\P07.StoreBoxes.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\obj\Debug\netcoreapp2.1\P07.StoreBoxes.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\obj\Debug\netcoreapp2.1\P07.StoreBoxes.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\obj\Debug\netcoreapp2.1\P07.StoreBoxes.dll
+D:\softuni - tech module\Technology Fundamentals\P07.StoreBoxes\obj\Debug\netcoreapp2.1\P07.StoreBoxes.pdb

@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\bin\Debug\netcoreapp2.1\3.TakeSkipRope.deps.json
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\bin\Debug\netcoreapp2.1\3.TakeSkipRope.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\bin\Debug\netcoreapp2.1\3.TakeSkipRope.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\bin\Debug\netcoreapp2.1\3.TakeSkipRope.dll
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\bin\Debug\netcoreapp2.1\3.TakeSkipRope.pdb
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\obj\Debug\netcoreapp2.1\3.TakeSkipRope.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\obj\Debug\netcoreapp2.1\3.TakeSkipRope.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\obj\Debug\netcoreapp2.1\3.TakeSkipRope.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\obj\Debug\netcoreapp2.1\3.TakeSkipRope.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\obj\Debug\netcoreapp2.1\3.TakeSkipRope.dll
+D:\softuni - tech module\Technology Fundamentals\3.TakeSkipRope\obj\Debug\netcoreapp2.1\3.TakeSkipRope.pdb

@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\bin\Debug\netcoreapp2.1\Problem2.DungeonestDark.deps.json
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\bin\Debug\netcoreapp2.1\Problem2.DungeonestDark.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\bin\Debug\netcoreapp2.1\Problem2.DungeonestDark.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\bin\Debug\netcoreapp2.1\Problem2.DungeonestDark.dll
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\bin\Debug\netcoreapp2.1\Problem2.DungeonestDark.pdb
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\obj\Debug\netcoreapp2.1\Problem2.DungeonestDark.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\obj\Debug\netcoreapp2.1\Problem2.DungeonestDark.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\obj\Debug\netcoreapp2.1\Problem2.DungeonestDark.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\obj\Debug\netcoreapp2.1\Problem2.DungeonestDark.dll
+D:\softuni - tech module\Technology Fundamentals\Problem2.DungeonestDark\obj\Debug\netcoreapp2.1\Problem2.DungeonestDark.pdb

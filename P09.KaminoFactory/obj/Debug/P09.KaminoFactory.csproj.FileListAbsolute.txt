@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P09.KaminoFactory\bin\Debug\P09.KaminoFactory.exe.config
+D:\softuni - tech module\Technology Fundamentals\P09.KaminoFactory\bin\Debug\P09.KaminoFactory.exe
+D:\softuni - tech module\Technology Fundamentals\P09.KaminoFactory\bin\Debug\P09.KaminoFactory.pdb
+D:\softuni - tech module\Technology Fundamentals\P09.KaminoFactory\obj\Debug\P09.KaminoFactory.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P09.KaminoFactory\obj\Debug\P09.KaminoFactory.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P09.KaminoFactory\obj\Debug\P09.KaminoFactory.exe
+D:\softuni - tech module\Technology Fundamentals\P09.KaminoFactory\obj\Debug\P09.KaminoFactory.pdb

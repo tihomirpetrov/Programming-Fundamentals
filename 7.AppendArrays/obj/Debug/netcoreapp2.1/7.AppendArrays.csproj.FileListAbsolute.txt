@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\bin\Debug\netcoreapp2.1\7.AppendArrays.deps.json
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\bin\Debug\netcoreapp2.1\7.AppendArrays.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\bin\Debug\netcoreapp2.1\7.AppendArrays.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\bin\Debug\netcoreapp2.1\7.AppendArrays.dll
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\bin\Debug\netcoreapp2.1\7.AppendArrays.pdb
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\obj\Debug\netcoreapp2.1\7.AppendArrays.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\obj\Debug\netcoreapp2.1\7.AppendArrays.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\obj\Debug\netcoreapp2.1\7.AppendArrays.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\obj\Debug\netcoreapp2.1\7.AppendArrays.dll
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\obj\Debug\netcoreapp2.1\7.AppendArrays.pdb
+D:\softuni - tech module\Technology Fundamentals\7.AppendArrays\obj\Debug\netcoreapp2.1\7.AppendArrays.csprojAssemblyReference.cache

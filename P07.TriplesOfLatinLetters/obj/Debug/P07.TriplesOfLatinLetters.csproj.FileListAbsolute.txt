@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P07.TriplesOfLatinLetters\bin\Debug\P07.TriplesOfLatinLetters.exe.config
+D:\softuni - tech module\Technology Fundamentals\P07.TriplesOfLatinLetters\bin\Debug\P07.TriplesOfLatinLetters.exe
+D:\softuni - tech module\Technology Fundamentals\P07.TriplesOfLatinLetters\bin\Debug\P07.TriplesOfLatinLetters.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.TriplesOfLatinLetters\obj\Debug\P07.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.TriplesOfLatinLetters\obj\Debug\P07.TriplesOfLatinLetters.exe
+D:\softuni - tech module\Technology Fundamentals\P07.TriplesOfLatinLetters\obj\Debug\P07.TriplesOfLatinLetters.pdb

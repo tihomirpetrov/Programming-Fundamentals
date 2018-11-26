@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P02.Grades\bin\Debug\P02.Grades.exe.config
+D:\softuni - tech module\Technology Fundamentals\P02.Grades\bin\Debug\P02.Grades.exe
+D:\softuni - tech module\Technology Fundamentals\P02.Grades\bin\Debug\P02.Grades.pdb
+D:\softuni - tech module\Technology Fundamentals\P02.Grades\obj\Debug\P02.Grades.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.Grades\obj\Debug\P02.Grades.exe
+D:\softuni - tech module\Technology Fundamentals\P02.Grades\obj\Debug\P02.Grades.pdb

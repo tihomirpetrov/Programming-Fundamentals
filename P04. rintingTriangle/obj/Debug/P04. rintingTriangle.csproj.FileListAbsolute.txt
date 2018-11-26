@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P04. rintingTriangle\obj\Debug\P04. rintingTriangle.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04. rintingTriangle\bin\Debug\P04.rintingTriangle.exe.config
+D:\softuni - tech module\Technology Fundamentals\P04. rintingTriangle\bin\Debug\P04.rintingTriangle.exe
+D:\softuni - tech module\Technology Fundamentals\P04. rintingTriangle\bin\Debug\P04.rintingTriangle.pdb
+D:\softuni - tech module\Technology Fundamentals\P04. rintingTriangle\obj\Debug\P04. rintingTriangle.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P04. rintingTriangle\obj\Debug\P04.rintingTriangle.exe
+D:\softuni - tech module\Technology Fundamentals\P04. rintingTriangle\obj\Debug\P04.rintingTriangle.pdb

@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P06.CalculateRectangleArea\bin\Debug\P06.CalculateRectangleArea.exe.config
+D:\softuni - tech module\Technology Fundamentals\P06.CalculateRectangleArea\bin\Debug\P06.CalculateRectangleArea.exe
+D:\softuni - tech module\Technology Fundamentals\P06.CalculateRectangleArea\bin\Debug\P06.CalculateRectangleArea.pdb
+D:\softuni - tech module\Technology Fundamentals\P06.CalculateRectangleArea\obj\Debug\P06.CalculateRectangleArea.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P06.CalculateRectangleArea\obj\Debug\P06.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P06.CalculateRectangleArea\obj\Debug\P06.CalculateRectangleArea.exe
+D:\softuni - tech module\Technology Fundamentals\P06.CalculateRectangleArea\obj\Debug\P06.CalculateRectangleArea.pdb

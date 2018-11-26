@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\bin\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.deps.json
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\bin\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\bin\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\bin\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.dll
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\bin\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.pdb
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\obj\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\obj\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\obj\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\obj\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.dll
+D:\softuni - tech module\Technology Fundamentals\ConsoleApp2\obj\Debug\netcoreapp2.1\1. RemoveNegativesAndReverse.pdb

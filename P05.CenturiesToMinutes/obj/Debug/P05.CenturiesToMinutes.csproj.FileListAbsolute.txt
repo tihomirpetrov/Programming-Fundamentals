@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P05.CenturiesToMinutes\bin\Debug\P05.CenturiesToMinutes.exe.config
+D:\softuni - tech module\Technology Fundamentals\P05.CenturiesToMinutes\bin\Debug\P05.CenturiesToMinutes.exe
+D:\softuni - tech module\Technology Fundamentals\P05.CenturiesToMinutes\bin\Debug\P05.CenturiesToMinutes.pdb
+D:\softuni - tech module\Technology Fundamentals\P05.CenturiesToMinutes\obj\Debug\P05.CenturiesToMinutes.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P05.CenturiesToMinutes\obj\Debug\P05.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P05.CenturiesToMinutes\obj\Debug\P05.CenturiesToMinutes.exe
+D:\softuni - tech module\Technology Fundamentals\P05.CenturiesToMinutes\obj\Debug\P05.CenturiesToMinutes.pdb

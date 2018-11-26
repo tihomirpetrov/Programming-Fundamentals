@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\EncryptSortAndPrintArray.deps.json
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\EncryptSortAndPrintArray.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\EncryptSortAndPrintArray.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\EncryptSortAndPrintArray.dll
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\bin\Debug\netcoreapp2.1\EncryptSortAndPrintArray.pdb
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\EncryptSortAndPrintArray.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\EncryptSortAndPrintArray.dll
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\EncryptSortAndPrintArray.pdb
+D:\softuni - tech module\Technology Fundamentals\EncryptSortAndPrintArray\obj\Debug\netcoreapp2.1\EncryptSortAndPrintArray.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.deps.json
+D:\softuni - tech module\Technology Fundamentals\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.dll
+D:\softuni - tech module\Technology Fundamentals\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.pdb
+D:\softuni - tech module\Technology Fundamentals\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.dll
+D:\softuni - tech module\Technology Fundamentals\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.pdb

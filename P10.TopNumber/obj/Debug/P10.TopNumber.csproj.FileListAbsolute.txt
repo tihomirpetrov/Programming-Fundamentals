@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P10.TopNumber\bin\Debug\P10.TopNumber.exe.config
+D:\softuni - tech module\Technology Fundamentals\P10.TopNumber\bin\Debug\P10.TopNumber.exe
+D:\softuni - tech module\Technology Fundamentals\P10.TopNumber\bin\Debug\P10.TopNumber.pdb
+D:\softuni - tech module\Technology Fundamentals\P10.TopNumber\obj\Debug\P10.TopNumber.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P10.TopNumber\obj\Debug\P10.TopNumber.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P10.TopNumber\obj\Debug\P10.TopNumber.exe
+D:\softuni - tech module\Technology Fundamentals\P10.TopNumber\obj\Debug\P10.TopNumber.pdb

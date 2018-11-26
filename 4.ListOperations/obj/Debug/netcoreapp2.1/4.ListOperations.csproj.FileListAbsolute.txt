@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.deps.json
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.dll
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.pdb
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.dll
+D:\softuni - tech module\Technology Fundamentals\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.pdb

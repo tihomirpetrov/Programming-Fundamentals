@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P06.EqualSums\bin\Debug\P06.EqualSums.exe.config
+D:\softuni - tech module\Technology Fundamentals\P06.EqualSums\bin\Debug\P06.EqualSums.exe
+D:\softuni - tech module\Technology Fundamentals\P06.EqualSums\bin\Debug\P06.EqualSums.pdb
+D:\softuni - tech module\Technology Fundamentals\P06.EqualSums\obj\Debug\P06.EqualSums.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P06.EqualSums\obj\Debug\P06.EqualSums.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P06.EqualSums\obj\Debug\P06.EqualSums.exe
+D:\softuni - tech module\Technology Fundamentals\P06.EqualSums\obj\Debug\P06.EqualSums.pdb

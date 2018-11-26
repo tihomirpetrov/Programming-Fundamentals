@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P06.MiddleCharacters\bin\Debug\P06.MiddleCharacters.exe.config
+D:\softuni - tech module\Technology Fundamentals\P06.MiddleCharacters\bin\Debug\P06.MiddleCharacters.exe
+D:\softuni - tech module\Technology Fundamentals\P06.MiddleCharacters\bin\Debug\P06.MiddleCharacters.pdb
+D:\softuni - tech module\Technology Fundamentals\P06.MiddleCharacters\obj\Debug\P06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P06.MiddleCharacters\obj\Debug\P06.MiddleCharacters.exe
+D:\softuni - tech module\Technology Fundamentals\P06.MiddleCharacters\obj\Debug\P06.MiddleCharacters.pdb

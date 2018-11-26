@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P08.DivisibleBy3\bin\Debug\P08.DivisibleBy3.exe.config
+D:\softuni - tech module\Technology Fundamentals\P08.DivisibleBy3\bin\Debug\P08.DivisibleBy3.exe
+D:\softuni - tech module\Technology Fundamentals\P08.DivisibleBy3\bin\Debug\P08.DivisibleBy3.pdb
+D:\softuni - tech module\Technology Fundamentals\P08.DivisibleBy3\obj\Debug\P08.DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P08.DivisibleBy3\obj\Debug\P08.DivisibleBy3.exe
+D:\softuni - tech module\Technology Fundamentals\P08.DivisibleBy3\obj\Debug\P08.DivisibleBy3.pdb

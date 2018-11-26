@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P07.EqualArrays\obj\Debug\P07.EqualArrays.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.EqualArrays\bin\Debug\P07.EqualArrays.exe.config
+D:\softuni - tech module\Technology Fundamentals\P07.EqualArrays\bin\Debug\P07.EqualArrays.exe
+D:\softuni - tech module\Technology Fundamentals\P07.EqualArrays\bin\Debug\P07.EqualArrays.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.EqualArrays\obj\Debug\P07.EqualArrays.exe
+D:\softuni - tech module\Technology Fundamentals\P07.EqualArrays\obj\Debug\P07.EqualArrays.pdb

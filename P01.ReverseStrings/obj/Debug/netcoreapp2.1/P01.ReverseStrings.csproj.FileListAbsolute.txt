@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\bin\Debug\netcoreapp2.1\P01.ReverseStrings.deps.json
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\bin\Debug\netcoreapp2.1\P01.ReverseStrings.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\bin\Debug\netcoreapp2.1\P01.ReverseStrings.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\bin\Debug\netcoreapp2.1\P01.ReverseStrings.dll
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\bin\Debug\netcoreapp2.1\P01.ReverseStrings.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\obj\Debug\netcoreapp2.1\P01.ReverseStrings.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\obj\Debug\netcoreapp2.1\P01.ReverseStrings.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\obj\Debug\netcoreapp2.1\P01.ReverseStrings.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\obj\Debug\netcoreapp2.1\P01.ReverseStrings.dll
+D:\softuni - tech module\Technology Fundamentals\P01.ReverseStrings\obj\Debug\netcoreapp2.1\P01.ReverseStrings.pdb

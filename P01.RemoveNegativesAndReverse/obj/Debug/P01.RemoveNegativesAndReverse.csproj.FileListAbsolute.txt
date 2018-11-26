@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P01.RemoveNegativesAndReverse\bin\Debug\P01.RemoveNegativesAndReverse.exe.config
+D:\softuni - tech module\Technology Fundamentals\P01.RemoveNegativesAndReverse\bin\Debug\P01.RemoveNegativesAndReverse.exe
+D:\softuni - tech module\Technology Fundamentals\P01.RemoveNegativesAndReverse\bin\Debug\P01.RemoveNegativesAndReverse.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.RemoveNegativesAndReverse\obj\Debug\P01.RemoveNegativesAndReverse.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P01.RemoveNegativesAndReverse\obj\Debug\P01.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.RemoveNegativesAndReverse\obj\Debug\P01.RemoveNegativesAndReverse.exe
+D:\softuni - tech module\Technology Fundamentals\P01.RemoveNegativesAndReverse\obj\Debug\P01.RemoveNegativesAndReverse.pdb

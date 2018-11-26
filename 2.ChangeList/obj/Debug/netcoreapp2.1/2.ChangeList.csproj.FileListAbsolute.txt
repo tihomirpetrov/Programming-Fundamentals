@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.deps.json
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.dll
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.pdb
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.dll
+D:\softuni - tech module\Technology Fundamentals\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.pdb

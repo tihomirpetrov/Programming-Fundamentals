@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P05.Orders\bin\Debug\P05.Orders.exe.config
+D:\softuni - tech module\Technology Fundamentals\P05.Orders\bin\Debug\P05.Orders.exe
+D:\softuni - tech module\Technology Fundamentals\P05.Orders\bin\Debug\P05.Orders.pdb
+D:\softuni - tech module\Technology Fundamentals\P05.Orders\obj\Debug\P05.Orders.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P05.Orders\obj\Debug\P05.Orders.exe
+D:\softuni - tech module\Technology Fundamentals\P05.Orders\obj\Debug\P05.Orders.pdb

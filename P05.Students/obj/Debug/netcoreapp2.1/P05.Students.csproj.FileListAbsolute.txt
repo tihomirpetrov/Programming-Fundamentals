@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\P05.Students\bin\Debug\netcoreapp2.1\P05.Students.deps.json
+D:\softuni - tech module\Technology Fundamentals\P05.Students\bin\Debug\netcoreapp2.1\P05.Students.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P05.Students\bin\Debug\netcoreapp2.1\P05.Students.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P05.Students\bin\Debug\netcoreapp2.1\P05.Students.dll
+D:\softuni - tech module\Technology Fundamentals\P05.Students\bin\Debug\netcoreapp2.1\P05.Students.pdb
+D:\softuni - tech module\Technology Fundamentals\P05.Students\obj\Debug\netcoreapp2.1\P05.Students.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P05.Students\obj\Debug\netcoreapp2.1\P05.Students.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P05.Students\obj\Debug\netcoreapp2.1\P05.Students.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P05.Students\obj\Debug\netcoreapp2.1\P05.Students.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P05.Students\obj\Debug\netcoreapp2.1\P05.Students.dll
+D:\softuni - tech module\Technology Fundamentals\P05.Students\obj\Debug\netcoreapp2.1\P05.Students.pdb

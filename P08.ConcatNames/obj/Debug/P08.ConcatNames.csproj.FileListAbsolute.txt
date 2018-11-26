@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P08.ConcatNames\bin\Debug\P08.ConcatNames.exe.config
+D:\softuni - tech module\Technology Fundamentals\P08.ConcatNames\bin\Debug\P08.ConcatNames.exe
+D:\softuni - tech module\Technology Fundamentals\P08.ConcatNames\bin\Debug\P08.ConcatNames.pdb
+D:\softuni - tech module\Technology Fundamentals\P08.ConcatNames\obj\Debug\P08.ConcatNames.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P08.ConcatNames\obj\Debug\P08.ConcatNames.exe
+D:\softuni - tech module\Technology Fundamentals\P08.ConcatNames\obj\Debug\P08.ConcatNames.pdb

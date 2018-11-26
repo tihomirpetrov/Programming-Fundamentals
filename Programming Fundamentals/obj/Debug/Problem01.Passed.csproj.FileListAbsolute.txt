@@ -1,6 +1,0 @@
-d:\docs\visual studio 2015\Projects\Programming Fundamentals\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
-d:\docs\visual studio 2015\Projects\Programming Fundamentals\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
-d:\docs\visual studio 2015\Projects\Programming Fundamentals\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
-d:\docs\visual studio 2015\Projects\Programming Fundamentals\Programming Fundamentals\obj\Debug\Problem01.Passed.csprojResolveAssemblyReference.cache
-d:\docs\visual studio 2015\Projects\Programming Fundamentals\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
-d:\docs\visual studio 2015\Projects\Programming Fundamentals\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb

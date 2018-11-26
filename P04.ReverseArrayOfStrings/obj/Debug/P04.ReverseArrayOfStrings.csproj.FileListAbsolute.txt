@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P04.ReverseArrayOfStrings\bin\Debug\P04.ReverseArrayOfStrings.exe.config
+D:\softuni - tech module\Technology Fundamentals\P04.ReverseArrayOfStrings\bin\Debug\P04.ReverseArrayOfStrings.exe
+D:\softuni - tech module\Technology Fundamentals\P04.ReverseArrayOfStrings\bin\Debug\P04.ReverseArrayOfStrings.pdb
+D:\softuni - tech module\Technology Fundamentals\P04.ReverseArrayOfStrings\obj\Debug\P04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04.ReverseArrayOfStrings\obj\Debug\P04.ReverseArrayOfStrings.exe
+D:\softuni - tech module\Technology Fundamentals\P04.ReverseArrayOfStrings\obj\Debug\P04.ReverseArrayOfStrings.pdb

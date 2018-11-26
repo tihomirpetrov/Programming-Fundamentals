@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P04.ListOfProducts\bin\Debug\P04.ListOfProducts.exe.config
+D:\softuni - tech module\Technology Fundamentals\P04.ListOfProducts\bin\Debug\P04.ListOfProducts.exe
+D:\softuni - tech module\Technology Fundamentals\P04.ListOfProducts\bin\Debug\P04.ListOfProducts.pdb
+D:\softuni - tech module\Technology Fundamentals\P04.ListOfProducts\obj\Debug\P04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04.ListOfProducts\obj\Debug\P04.ListOfProducts.exe
+D:\softuni - tech module\Technology Fundamentals\P04.ListOfProducts\obj\Debug\P04.ListOfProducts.pdb

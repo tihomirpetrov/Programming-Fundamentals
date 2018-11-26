@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P02.SumAdjacentEqualNumbers\bin\Debug\P02.SumAdjacentEqualNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P02.SumAdjacentEqualNumbers\bin\Debug\P02.SumAdjacentEqualNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P02.SumAdjacentEqualNumbers\bin\Debug\P02.SumAdjacentEqualNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P02.SumAdjacentEqualNumbers\obj\Debug\P02.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.SumAdjacentEqualNumbers\obj\Debug\P02.SumAdjacentEqualNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P02.SumAdjacentEqualNumbers\obj\Debug\P02.SumAdjacentEqualNumbers.pdb

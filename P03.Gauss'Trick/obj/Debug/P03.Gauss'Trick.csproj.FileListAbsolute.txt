@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P03.Gauss'Trick\bin\Debug\P03.Gauss'Trick.exe.config
+D:\softuni - tech module\Technology Fundamentals\P03.Gauss'Trick\bin\Debug\P03.Gauss'Trick.exe
+D:\softuni - tech module\Technology Fundamentals\P03.Gauss'Trick\bin\Debug\P03.Gauss'Trick.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.Gauss'Trick\obj\Debug\P03.Gauss'Trick.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P03.Gauss'Trick\obj\Debug\P03.Gauss'Trick.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.Gauss'Trick\obj\Debug\P03.Gauss'Trick.exe
+D:\softuni - tech module\Technology Fundamentals\P03.Gauss'Trick\obj\Debug\P03.Gauss'Trick.pdb

@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P09.Padawan Equipment\bin\Debug\P09.Padawan Equipment.exe.config
+D:\softuni - tech module\Technology Fundamentals\P09.Padawan Equipment\bin\Debug\P09.Padawan Equipment.exe
+D:\softuni - tech module\Technology Fundamentals\P09.Padawan Equipment\bin\Debug\P09.Padawan Equipment.pdb
+D:\softuni - tech module\Technology Fundamentals\P09.Padawan Equipment\obj\Debug\P09.PadawanEquipment.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P09.Padawan Equipment\obj\Debug\P09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P09.Padawan Equipment\obj\Debug\P09.Padawan Equipment.exe
+D:\softuni - tech module\Technology Fundamentals\P09.Padawan Equipment\obj\Debug\P09.Padawan Equipment.pdb

@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\bin\Debug\netcoreapp2.1\P02.RandomizeWords.deps.json
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\bin\Debug\netcoreapp2.1\P02.RandomizeWords.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\bin\Debug\netcoreapp2.1\P02.RandomizeWords.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\bin\Debug\netcoreapp2.1\P02.RandomizeWords.dll
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\bin\Debug\netcoreapp2.1\P02.RandomizeWords.pdb
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\obj\Debug\netcoreapp2.1\P02.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\obj\Debug\netcoreapp2.1\P02.RandomizeWords.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\obj\Debug\netcoreapp2.1\P02.RandomizeWords.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\obj\Debug\netcoreapp2.1\P02.RandomizeWords.dll
+D:\softuni - tech module\Technology Fundamentals\P02.RandomizeWords\obj\Debug\netcoreapp2.1\P02.RandomizeWords.pdb

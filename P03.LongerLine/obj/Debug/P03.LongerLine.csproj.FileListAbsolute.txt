@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P03.LongerLine\bin\Debug\P03.LongerLine.exe.config
+D:\softuni - tech module\Technology Fundamentals\P03.LongerLine\bin\Debug\P03.LongerLine.exe
+D:\softuni - tech module\Technology Fundamentals\P03.LongerLine\bin\Debug\P03.LongerLine.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.LongerLine\obj\Debug\P03.LongerLine.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P03.LongerLine\obj\Debug\P03.LongerLine.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.LongerLine\obj\Debug\P03.LongerLine.exe
+D:\softuni - tech module\Technology Fundamentals\P03.LongerLine\obj\Debug\P03.LongerLine.pdb

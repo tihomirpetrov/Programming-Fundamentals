@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.deps.json
+D:\softuni - tech module\Technology Fundamentals\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.dll
+D:\softuni - tech module\Technology Fundamentals\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.pdb
+D:\softuni - tech module\Technology Fundamentals\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.dll
+D:\softuni - tech module\Technology Fundamentals\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.pdb

@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P05.SumEvenNumbers\bin\Debug\P05.SumEvenNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P05.SumEvenNumbers\bin\Debug\P05.SumEvenNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P05.SumEvenNumbers\bin\Debug\P05.SumEvenNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P05.SumEvenNumbers\obj\Debug\P05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P05.SumEvenNumbers\obj\Debug\P05.SumEvenNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P05.SumEvenNumbers\obj\Debug\P05.SumEvenNumbers.pdb

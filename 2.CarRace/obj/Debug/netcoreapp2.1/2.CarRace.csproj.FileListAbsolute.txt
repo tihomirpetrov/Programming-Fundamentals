@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\bin\Debug\netcoreapp2.1\2.CarRace.deps.json
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\bin\Debug\netcoreapp2.1\2.CarRace.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\bin\Debug\netcoreapp2.1\2.CarRace.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\bin\Debug\netcoreapp2.1\2.CarRace.dll
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\bin\Debug\netcoreapp2.1\2.CarRace.pdb
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\obj\Debug\netcoreapp2.1\2.CarRace.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\obj\Debug\netcoreapp2.1\2.CarRace.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\obj\Debug\netcoreapp2.1\2.CarRace.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\obj\Debug\netcoreapp2.1\2.CarRace.dll
+D:\softuni - tech module\Technology Fundamentals\2.CarRace\obj\Debug\netcoreapp2.1\2.CarRace.pdb

@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P08.TriangleOfNumbers\bin\Debug\P08.TriangleOfNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P08.TriangleOfNumbers\bin\Debug\P08.TriangleOfNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P08.TriangleOfNumbers\bin\Debug\P08.TriangleOfNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P08.TriangleOfNumbers\obj\Debug\P08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P08.TriangleOfNumbers\obj\Debug\P08.TriangleOfNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P08.TriangleOfNumbers\obj\Debug\P08.TriangleOfNumbers.pdb

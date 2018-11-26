@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P04.PrintAndSum\bin\Debug\P04.PrintAndSum.exe.config
+D:\softuni - tech module\Technology Fundamentals\P04.PrintAndSum\bin\Debug\P04.PrintAndSum.exe
+D:\softuni - tech module\Technology Fundamentals\P04.PrintAndSum\bin\Debug\P04.PrintAndSum.pdb
+D:\softuni - tech module\Technology Fundamentals\P04.PrintAndSum\obj\Debug\P04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04.PrintAndSum\obj\Debug\P04.PrintAndSum.exe
+D:\softuni - tech module\Technology Fundamentals\P04.PrintAndSum\obj\Debug\P04.PrintAndSum.pdb

@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P01.Ages\bin\Debug\P01.Ages.exe.config
+D:\softuni - tech module\Technology Fundamentals\P01.Ages\bin\Debug\P01.Ages.exe
+D:\softuni - tech module\Technology Fundamentals\P01.Ages\bin\Debug\P01.Ages.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.Ages\obj\Debug\P01.Ages.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.Ages\obj\Debug\P01.Ages.exe
+D:\softuni - tech module\Technology Fundamentals\P01.Ages\obj\Debug\P01.Ages.pdb

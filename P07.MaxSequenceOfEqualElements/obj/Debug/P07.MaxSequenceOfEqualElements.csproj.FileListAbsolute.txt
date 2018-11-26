@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P07.MaxSequenceOfEqualElements\bin\Debug\P07.MaxSequenceOfEqualElements.exe.config
+D:\softuni - tech module\Technology Fundamentals\P07.MaxSequenceOfEqualElements\bin\Debug\P07.MaxSequenceOfEqualElements.exe
+D:\softuni - tech module\Technology Fundamentals\P07.MaxSequenceOfEqualElements\bin\Debug\P07.MaxSequenceOfEqualElements.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.MaxSequenceOfEqualElements\obj\Debug\P07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.MaxSequenceOfEqualElements\obj\Debug\P07.MaxSequenceOfEqualElements.exe
+D:\softuni - tech module\Technology Fundamentals\P07.MaxSequenceOfEqualElements\obj\Debug\P07.MaxSequenceOfEqualElements.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.MaxSequenceOfEqualElements\obj\Debug\P07.MaxSequenceOfEqualElements.csprojAssemblyReference.cache

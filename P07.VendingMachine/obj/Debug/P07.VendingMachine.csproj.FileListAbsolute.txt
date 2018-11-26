@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P07.VendingMachine\bin\Debug\P07.VendingMachine.exe.config
+D:\softuni - tech module\Technology Fundamentals\P07.VendingMachine\bin\Debug\P07.VendingMachine.exe
+D:\softuni - tech module\Technology Fundamentals\P07.VendingMachine\bin\Debug\P07.VendingMachine.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.VendingMachine\obj\Debug\P07.VendingMachine.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P07.VendingMachine\obj\Debug\P07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.VendingMachine\obj\Debug\P07.VendingMachine.exe
+D:\softuni - tech module\Technology Fundamentals\P07.VendingMachine\obj\Debug\P07.VendingMachine.pdb

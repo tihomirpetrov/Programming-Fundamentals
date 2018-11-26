@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P4.ArrayRotation\bin\Debug\P4.ArrayRotation.exe.config
+D:\softuni - tech module\Technology Fundamentals\P4.ArrayRotation\bin\Debug\P4.ArrayRotation.exe
+D:\softuni - tech module\Technology Fundamentals\P4.ArrayRotation\bin\Debug\P4.ArrayRotation.pdb
+D:\softuni - tech module\Technology Fundamentals\P4.ArrayRotation\obj\Debug\P4.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P4.ArrayRotation\obj\Debug\P4.ArrayRotation.exe
+D:\softuni - tech module\Technology Fundamentals\P4.ArrayRotation\obj\Debug\P4.ArrayRotation.pdb

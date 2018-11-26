@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P04.ListOperations\bin\Debug\P04.ListOperations.exe.config
+D:\softuni - tech module\Technology Fundamentals\P04.ListOperations\bin\Debug\P04.ListOperations.exe
+D:\softuni - tech module\Technology Fundamentals\P04.ListOperations\bin\Debug\P04.ListOperations.pdb
+D:\softuni - tech module\Technology Fundamentals\P04.ListOperations\obj\Debug\P04.ListOperations.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P04.ListOperations\obj\Debug\P04.ListOperations.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04.ListOperations\obj\Debug\P04.ListOperations.exe
+D:\softuni - tech module\Technology Fundamentals\P04.ListOperations\obj\Debug\P04.ListOperations.pdb

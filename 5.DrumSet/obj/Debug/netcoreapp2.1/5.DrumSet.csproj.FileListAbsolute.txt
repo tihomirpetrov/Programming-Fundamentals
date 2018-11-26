@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\bin\Debug\netcoreapp2.1\5.DrumSet.deps.json
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\bin\Debug\netcoreapp2.1\5.DrumSet.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\bin\Debug\netcoreapp2.1\5.DrumSet.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\bin\Debug\netcoreapp2.1\5.DrumSet.dll
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\bin\Debug\netcoreapp2.1\5.DrumSet.pdb
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\obj\Debug\netcoreapp2.1\5.DrumSet.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\obj\Debug\netcoreapp2.1\5.DrumSet.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\obj\Debug\netcoreapp2.1\5.DrumSet.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\obj\Debug\netcoreapp2.1\5.DrumSet.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\obj\Debug\netcoreapp2.1\5.DrumSet.dll
+D:\softuni - tech module\Technology Fundamentals\5.DrumSet\obj\Debug\netcoreapp2.1\5.DrumSet.pdb

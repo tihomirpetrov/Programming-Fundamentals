@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P05.Login\bin\Debug\P05.Login.exe.config
+D:\softuni - tech module\Technology Fundamentals\P05.Login\bin\Debug\P05.Login.exe
+D:\softuni - tech module\Technology Fundamentals\P05.Login\bin\Debug\P05.Login.pdb
+D:\softuni - tech module\Technology Fundamentals\P05.Login\obj\Debug\P05.Login.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P05.Login\obj\Debug\P05.Login.exe
+D:\softuni - tech module\Technology Fundamentals\P05.Login\obj\Debug\P05.Login.pdb

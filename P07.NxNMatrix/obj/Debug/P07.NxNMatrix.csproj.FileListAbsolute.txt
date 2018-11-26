@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P07.NxNMatrix\bin\Debug\P07.NxNMatrix.exe.config
+D:\softuni - tech module\Technology Fundamentals\P07.NxNMatrix\bin\Debug\P07.NxNMatrix.exe
+D:\softuni - tech module\Technology Fundamentals\P07.NxNMatrix\bin\Debug\P07.NxNMatrix.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.NxNMatrix\obj\Debug\P07.NxNMatrix.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.NxNMatrix\obj\Debug\P07.NxNMatrix.exe
+D:\softuni - tech module\Technology Fundamentals\P07.NxNMatrix\obj\Debug\P07.NxNMatrix.pdb

@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P07.TheatrePromotions\bin\Debug\P07.TheatrePromotions.exe.config
+D:\softuni - tech module\Technology Fundamentals\P07.TheatrePromotions\bin\Debug\P07.TheatrePromotions.exe
+D:\softuni - tech module\Technology Fundamentals\P07.TheatrePromotions\bin\Debug\P07.TheatrePromotions.pdb
+D:\softuni - tech module\Technology Fundamentals\P07.TheatrePromotions\obj\Debug\P07.TheatrePromotions.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P07.TheatrePromotions\obj\Debug\P07.TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P07.TheatrePromotions\obj\Debug\P07.TheatrePromotions.exe
+D:\softuni - tech module\Technology Fundamentals\P07.TheatrePromotions\obj\Debug\P07.TheatrePromotions.pdb

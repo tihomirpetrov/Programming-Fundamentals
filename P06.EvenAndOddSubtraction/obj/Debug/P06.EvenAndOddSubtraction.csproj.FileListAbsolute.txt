@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P06.EvenAndOddSubtraction\bin\Debug\P06.EvenAndOddSubtraction.exe.config
+D:\softuni - tech module\Technology Fundamentals\P06.EvenAndOddSubtraction\bin\Debug\P06.EvenAndOddSubtraction.exe
+D:\softuni - tech module\Technology Fundamentals\P06.EvenAndOddSubtraction\bin\Debug\P06.EvenAndOddSubtraction.pdb
+D:\softuni - tech module\Technology Fundamentals\P06.EvenAndOddSubtraction\obj\Debug\P06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P06.EvenAndOddSubtraction\obj\Debug\P06.EvenAndOddSubtraction.exe
+D:\softuni - tech module\Technology Fundamentals\P06.EvenAndOddSubtraction\obj\Debug\P06.EvenAndOddSubtraction.pdb

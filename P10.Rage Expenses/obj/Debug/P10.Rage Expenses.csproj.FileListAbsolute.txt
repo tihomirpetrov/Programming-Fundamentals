@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P10.Rage Expenses\bin\Debug\P10.Rage Expenses.exe.config
+D:\softuni - tech module\Technology Fundamentals\P10.Rage Expenses\bin\Debug\P10.Rage Expenses.exe
+D:\softuni - tech module\Technology Fundamentals\P10.Rage Expenses\bin\Debug\P10.Rage Expenses.pdb
+D:\softuni - tech module\Technology Fundamentals\P10.Rage Expenses\obj\Debug\P10.Rage Expenses.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P10.Rage Expenses\obj\Debug\P10.Rage Expenses.exe
+D:\softuni - tech module\Technology Fundamentals\P10.Rage Expenses\obj\Debug\P10.Rage Expenses.pdb

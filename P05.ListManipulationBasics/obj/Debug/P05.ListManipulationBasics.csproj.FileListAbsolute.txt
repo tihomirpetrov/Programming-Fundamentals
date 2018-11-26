@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P05.ListManipulationBasics\bin\Debug\P05.ListManipulationBasics.exe.config
+D:\softuni - tech module\Technology Fundamentals\P05.ListManipulationBasics\bin\Debug\P05.ListManipulationBasics.exe
+D:\softuni - tech module\Technology Fundamentals\P05.ListManipulationBasics\bin\Debug\P05.ListManipulationBasics.pdb
+D:\softuni - tech module\Technology Fundamentals\P05.ListManipulationBasics\obj\Debug\P05.ListManipulationBasics.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P05.ListManipulationBasics\obj\Debug\P05.ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P05.ListManipulationBasics\obj\Debug\P05.ListManipulationBasics.exe
+D:\softuni - tech module\Technology Fundamentals\P05.ListManipulationBasics\obj\Debug\P05.ListManipulationBasics.pdb

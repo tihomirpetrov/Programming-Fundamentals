@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\bin\Debug\netcoreapp2.1\4.MixedUpLists.deps.json
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\bin\Debug\netcoreapp2.1\4.MixedUpLists.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\bin\Debug\netcoreapp2.1\4.MixedUpLists.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\bin\Debug\netcoreapp2.1\4.MixedUpLists.dll
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\bin\Debug\netcoreapp2.1\4.MixedUpLists.pdb
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\obj\Debug\netcoreapp2.1\4.MixedUpLists.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\obj\Debug\netcoreapp2.1\4.MixedUpLists.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\obj\Debug\netcoreapp2.1\4.MixedUpLists.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\obj\Debug\netcoreapp2.1\4.MixedUpLists.dll
+D:\softuni - tech module\Technology Fundamentals\4.MixedUpLists\obj\Debug\netcoreapp2.1\4.MixedUpLists.pdb

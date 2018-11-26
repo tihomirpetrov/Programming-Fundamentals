@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P03.ExactSumOfRealNumbers\bin\Debug\P03.ExactSumOfRealNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P03.ExactSumOfRealNumbers\bin\Debug\P03.ExactSumOfRealNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P03.ExactSumOfRealNumbers\bin\Debug\P03.ExactSumOfRealNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.ExactSumOfRealNumbers\obj\Debug\P03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.ExactSumOfRealNumbers\obj\Debug\P03.ExactSumOfRealNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P03.ExactSumOfRealNumbers\obj\Debug\P03.ExactSumOfRealNumbers.pdb

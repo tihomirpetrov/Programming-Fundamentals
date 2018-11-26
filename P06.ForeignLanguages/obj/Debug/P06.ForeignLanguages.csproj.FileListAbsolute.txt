@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P06.ForeignLanguages\bin\Debug\P06.ForeignLanguages.exe.config
+D:\softuni - tech module\Technology Fundamentals\P06.ForeignLanguages\bin\Debug\P06.ForeignLanguages.exe
+D:\softuni - tech module\Technology Fundamentals\P06.ForeignLanguages\bin\Debug\P06.ForeignLanguages.pdb
+D:\softuni - tech module\Technology Fundamentals\P06.ForeignLanguages\obj\Debug\P06.ForeignLanguages.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P06.ForeignLanguages\obj\Debug\P06.ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P06.ForeignLanguages\obj\Debug\P06.ForeignLanguages.exe
+D:\softuni - tech module\Technology Fundamentals\P06.ForeignLanguages\obj\Debug\P06.ForeignLanguages.pdb

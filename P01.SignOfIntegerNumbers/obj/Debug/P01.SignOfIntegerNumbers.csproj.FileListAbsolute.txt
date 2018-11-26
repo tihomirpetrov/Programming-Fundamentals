@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P01.SignOfIntegerNumbers\bin\Debug\P01.SignOfIntegerNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P01.SignOfIntegerNumbers\bin\Debug\P01.SignOfIntegerNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P01.SignOfIntegerNumbers\bin\Debug\P01.SignOfIntegerNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.SignOfIntegerNumbers\obj\Debug\P01.SignOfIntegerNumbers.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P01.SignOfIntegerNumbers\obj\Debug\P01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.SignOfIntegerNumbers\obj\Debug\P01.SignOfIntegerNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P01.SignOfIntegerNumbers\obj\Debug\P01.SignOfIntegerNumbers.pdb

@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P02.PascalTriangle\bin\Debug\P02.PascalTriangle.exe.config
+D:\softuni - tech module\Technology Fundamentals\P02.PascalTriangle\bin\Debug\P02.PascalTriangle.exe
+D:\softuni - tech module\Technology Fundamentals\P02.PascalTriangle\bin\Debug\P02.PascalTriangle.pdb
+D:\softuni - tech module\Technology Fundamentals\P02.PascalTriangle\obj\Debug\P02.PascalTriangle.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P02.PascalTriangle\obj\Debug\P02.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.PascalTriangle\obj\Debug\P02.PascalTriangle.exe
+D:\softuni - tech module\Technology Fundamentals\P02.PascalTriangle\obj\Debug\P02.PascalTriangle.pdb

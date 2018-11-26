@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P06.SpecialNumbers\bin\Debug\P06.SpecialNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P06.SpecialNumbers\bin\Debug\P06.SpecialNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P06.SpecialNumbers\bin\Debug\P06.SpecialNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P06.SpecialNumbers\obj\Debug\P06.SpecialNumbers.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P06.SpecialNumbers\obj\Debug\P06.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P06.SpecialNumbers\obj\Debug\P06.SpecialNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P06.SpecialNumbers\obj\Debug\P06.SpecialNumbers.pdb

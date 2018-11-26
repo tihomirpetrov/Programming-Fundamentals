@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\bin\Debug\netcoreapp2.1\P03.Substring.deps.json
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\bin\Debug\netcoreapp2.1\P03.Substring.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\bin\Debug\netcoreapp2.1\P03.Substring.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\bin\Debug\netcoreapp2.1\P03.Substring.dll
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\bin\Debug\netcoreapp2.1\P03.Substring.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\obj\Debug\netcoreapp2.1\P03.Substring.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\obj\Debug\netcoreapp2.1\P03.Substring.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\obj\Debug\netcoreapp2.1\P03.Substring.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\obj\Debug\netcoreapp2.1\P03.Substring.dll
+D:\softuni - tech module\Technology Fundamentals\P03.Substring\obj\Debug\netcoreapp2.1\P03.Substring.pdb

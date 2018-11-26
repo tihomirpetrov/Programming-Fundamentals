@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\EqualSums\bin\Debug\netcoreapp2.1\6EqualSums.deps.json
+D:\softuni - tech module\Technology Fundamentals\EqualSums\bin\Debug\netcoreapp2.1\6EqualSums.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\EqualSums\bin\Debug\netcoreapp2.1\6EqualSums.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\EqualSums\bin\Debug\netcoreapp2.1\6EqualSums.dll
+D:\softuni - tech module\Technology Fundamentals\EqualSums\bin\Debug\netcoreapp2.1\6EqualSums.pdb
+D:\softuni - tech module\Technology Fundamentals\EqualSums\obj\Debug\netcoreapp2.1\6EqualSums.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\EqualSums\obj\Debug\netcoreapp2.1\6EqualSums.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\EqualSums\obj\Debug\netcoreapp2.1\6EqualSums.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\EqualSums\obj\Debug\netcoreapp2.1\6EqualSums.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\EqualSums\obj\Debug\netcoreapp2.1\6EqualSums.dll
+D:\softuni - tech module\Technology Fundamentals\EqualSums\obj\Debug\netcoreapp2.1\6EqualSums.pdb

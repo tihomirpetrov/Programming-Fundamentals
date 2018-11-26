@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P04.BackIn30Minutes\bin\Debug\P04.BackIn30Minutes.exe.config
+D:\softuni - tech module\Technology Fundamentals\P04.BackIn30Minutes\bin\Debug\P04.BackIn30Minutes.exe
+D:\softuni - tech module\Technology Fundamentals\P04.BackIn30Minutes\bin\Debug\P04.BackIn30Minutes.pdb
+D:\softuni - tech module\Technology Fundamentals\P04.BackIn30Minutes\obj\Debug\P04.BackIn30Minutes.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P04.BackIn30Minutes\obj\Debug\P04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04.BackIn30Minutes\obj\Debug\P04.BackIn30Minutes.exe
+D:\softuni - tech module\Technology Fundamentals\P04.BackIn30Minutes\obj\Debug\P04.BackIn30Minutes.pdb

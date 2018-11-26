@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P13.DebugTheCode-HolidaysBetweenTwoDates\bin\Debug\P13.DebugTheCode-HolidaysBetweenTwoDates.exe.config
+D:\softuni - tech module\Technology Fundamentals\P13.DebugTheCode-HolidaysBetweenTwoDates\bin\Debug\P13.DebugTheCode-HolidaysBetweenTwoDates.exe
+D:\softuni - tech module\Technology Fundamentals\P13.DebugTheCode-HolidaysBetweenTwoDates\bin\Debug\P13.DebugTheCode-HolidaysBetweenTwoDates.pdb
+D:\softuni - tech module\Technology Fundamentals\P13.DebugTheCode-HolidaysBetweenTwoDates\obj\Debug\P13.DebugTheCode-HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P13.DebugTheCode-HolidaysBetweenTwoDates\obj\Debug\P13.DebugTheCode-HolidaysBetweenTwoDates.exe
+D:\softuni - tech module\Technology Fundamentals\P13.DebugTheCode-HolidaysBetweenTwoDates\obj\Debug\P13.DebugTheCode-HolidaysBetweenTwoDates.pdb

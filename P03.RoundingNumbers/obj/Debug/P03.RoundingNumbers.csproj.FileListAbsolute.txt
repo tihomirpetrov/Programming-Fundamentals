@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P03.RoundingNumbers\bin\Debug\P03.RoundingNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P03.RoundingNumbers\bin\Debug\P03.RoundingNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P03.RoundingNumbers\bin\Debug\P03.RoundingNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.RoundingNumbers\obj\Debug\P03.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.RoundingNumbers\obj\Debug\P03.RoundingNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P03.RoundingNumbers\obj\Debug\P03.RoundingNumbers.pdb

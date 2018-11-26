@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\bin\Debug\netcoreapp2.1\Problem3.QuestsJournal.deps.json
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\bin\Debug\netcoreapp2.1\Problem3.QuestsJournal.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\bin\Debug\netcoreapp2.1\Problem3.QuestsJournal.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\bin\Debug\netcoreapp2.1\Problem3.QuestsJournal.dll
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\bin\Debug\netcoreapp2.1\Problem3.QuestsJournal.pdb
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\obj\Debug\netcoreapp2.1\Problem3.QuestsJournal.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\obj\Debug\netcoreapp2.1\Problem3.QuestsJournal.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\obj\Debug\netcoreapp2.1\Problem3.QuestsJournal.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\obj\Debug\netcoreapp2.1\Problem3.QuestsJournal.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\obj\Debug\netcoreapp2.1\Problem3.QuestsJournal.dll
+D:\softuni - tech module\Technology Fundamentals\Problem3.QuestsJournal\obj\Debug\netcoreapp2.1\Problem3.QuestsJournal.pdb

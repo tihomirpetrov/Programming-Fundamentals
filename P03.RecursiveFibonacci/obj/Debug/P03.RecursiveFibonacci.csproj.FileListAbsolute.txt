@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P03.RecursiveFibonacci\bin\Debug\P03.RecursiveFibonacci.exe.config
+D:\softuni - tech module\Technology Fundamentals\P03.RecursiveFibonacci\bin\Debug\P03.RecursiveFibonacci.exe
+D:\softuni - tech module\Technology Fundamentals\P03.RecursiveFibonacci\bin\Debug\P03.RecursiveFibonacci.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.RecursiveFibonacci\obj\Debug\P03.RecursiveFibonacci.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P03.RecursiveFibonacci\obj\Debug\P03.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.RecursiveFibonacci\obj\Debug\P03.RecursiveFibonacci.exe
+D:\softuni - tech module\Technology Fundamentals\P03.RecursiveFibonacci\obj\Debug\P03.RecursiveFibonacci.pdb

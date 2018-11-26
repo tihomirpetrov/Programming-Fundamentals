@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P09.SumOfOddNumbers\bin\Debug\P09.SumOfOddNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P09.SumOfOddNumbers\bin\Debug\P09.SumOfOddNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P09.SumOfOddNumbers\bin\Debug\P09.SumOfOddNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P09.SumOfOddNumbers\obj\Debug\P09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P09.SumOfOddNumbers\obj\Debug\P09.SumOfOddNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P09.SumOfOddNumbers\obj\Debug\P09.SumOfOddNumbers.pdb

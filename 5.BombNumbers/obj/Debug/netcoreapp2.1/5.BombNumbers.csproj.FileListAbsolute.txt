@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.deps.json
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.dll
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.dll
+D:\softuni - tech module\Technology Fundamentals\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.pdb

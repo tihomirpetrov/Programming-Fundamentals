@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P10.RepeatString\bin\Debug\P10.RepeatString.exe.config
+D:\softuni - tech module\Technology Fundamentals\P10.RepeatString\bin\Debug\P10.RepeatString.exe
+D:\softuni - tech module\Technology Fundamentals\P10.RepeatString\bin\Debug\P10.RepeatString.pdb
+D:\softuni - tech module\Technology Fundamentals\P10.RepeatString\obj\Debug\P10.RepeatString.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P10.RepeatString\obj\Debug\P10.RepeatString.exe
+D:\softuni - tech module\Technology Fundamentals\P10.RepeatString\obj\Debug\P10.RepeatString.pdb

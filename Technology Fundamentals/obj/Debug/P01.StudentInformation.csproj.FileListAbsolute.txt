@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\Technology Fundamentals\bin\Debug\Technology Fundamentals.exe.config
+D:\softuni - tech module\Technology Fundamentals\Technology Fundamentals\bin\Debug\Technology Fundamentals.exe
+D:\softuni - tech module\Technology Fundamentals\Technology Fundamentals\bin\Debug\Technology Fundamentals.pdb
+D:\softuni - tech module\Technology Fundamentals\Technology Fundamentals\obj\Debug\P01.StudentInformation.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\Technology Fundamentals\obj\Debug\P01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Technology Fundamentals\obj\Debug\Technology Fundamentals.exe
+D:\softuni - tech module\Technology Fundamentals\Technology Fundamentals\obj\Debug\Technology Fundamentals.pdb

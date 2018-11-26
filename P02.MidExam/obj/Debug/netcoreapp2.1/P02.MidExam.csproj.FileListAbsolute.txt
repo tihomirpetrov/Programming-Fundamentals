@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\bin\Debug\netcoreapp2.1\P02.MidExam.deps.json
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\bin\Debug\netcoreapp2.1\P02.MidExam.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\bin\Debug\netcoreapp2.1\P02.MidExam.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\bin\Debug\netcoreapp2.1\P02.MidExam.dll
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\bin\Debug\netcoreapp2.1\P02.MidExam.pdb
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\obj\Debug\netcoreapp2.1\P02.MidExam.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\obj\Debug\netcoreapp2.1\P02.MidExam.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\obj\Debug\netcoreapp2.1\P02.MidExam.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\obj\Debug\netcoreapp2.1\P02.MidExam.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\obj\Debug\netcoreapp2.1\P02.MidExam.dll
+D:\softuni - tech module\Technology Fundamentals\P02.MidExam\obj\Debug\netcoreapp2.1\P02.MidExam.pdb

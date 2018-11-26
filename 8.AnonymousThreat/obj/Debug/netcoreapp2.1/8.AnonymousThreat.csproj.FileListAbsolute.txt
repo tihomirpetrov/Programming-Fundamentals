@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\bin\Debug\netcoreapp2.1\8.AnonymousThreat.deps.json
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\bin\Debug\netcoreapp2.1\8.AnonymousThreat.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\bin\Debug\netcoreapp2.1\8.AnonymousThreat.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\bin\Debug\netcoreapp2.1\8.AnonymousThreat.dll
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\bin\Debug\netcoreapp2.1\8.AnonymousThreat.pdb
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\obj\Debug\netcoreapp2.1\8.AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\obj\Debug\netcoreapp2.1\8.AnonymousThreat.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\obj\Debug\netcoreapp2.1\8.AnonymousThreat.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\obj\Debug\netcoreapp2.1\8.AnonymousThreat.dll
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\obj\Debug\netcoreapp2.1\8.AnonymousThreat.pdb
+D:\softuni - tech module\Technology Fundamentals\8.AnonymousThreat\obj\Debug\netcoreapp2.1\8.AnonymousThreat.csprojAssemblyReference.cache

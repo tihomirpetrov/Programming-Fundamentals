@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P04.TribonacciSequence\bin\Debug\P04.TribonacciSequence.exe.config
+D:\softuni - tech module\Technology Fundamentals\P04.TribonacciSequence\bin\Debug\P04.TribonacciSequence.exe
+D:\softuni - tech module\Technology Fundamentals\P04.TribonacciSequence\bin\Debug\P04.TribonacciSequence.pdb
+D:\softuni - tech module\Technology Fundamentals\P04.TribonacciSequence\obj\Debug\P04.TribonacciSequence.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P04.TribonacciSequence\obj\Debug\P04.TribonacciSequence.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P04.TribonacciSequence\obj\Debug\P04.TribonacciSequence.exe
+D:\softuni - tech module\Technology Fundamentals\P04.TribonacciSequence\obj\Debug\P04.TribonacciSequence.pdb

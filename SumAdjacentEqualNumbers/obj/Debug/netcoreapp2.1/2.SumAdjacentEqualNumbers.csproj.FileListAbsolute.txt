@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.deps.json
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.dll
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.dll
+D:\softuni - tech module\Technology Fundamentals\SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\2.SumAdjacentEqualNumbers.pdb

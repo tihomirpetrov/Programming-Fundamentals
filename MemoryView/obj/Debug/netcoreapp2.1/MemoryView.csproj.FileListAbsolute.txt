@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.deps.json
+D:\softuni - tech module\Technology Fundamentals\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.dll
+D:\softuni - tech module\Technology Fundamentals\MemoryView\bin\Debug\netcoreapp2.1\MemoryView.pdb
+D:\softuni - tech module\Technology Fundamentals\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.dll
+D:\softuni - tech module\Technology Fundamentals\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.pdb
+D:\softuni - tech module\Technology Fundamentals\MemoryView\obj\Debug\netcoreapp2.1\MemoryView.csprojAssemblyReference.cache

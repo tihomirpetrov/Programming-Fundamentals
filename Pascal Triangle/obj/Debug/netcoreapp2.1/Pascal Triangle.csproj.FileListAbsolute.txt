@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.deps.json
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.dll
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.pdb
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.dll
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.pdb
+D:\softuni - tech module\Technology Fundamentals\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.csprojAssemblyReference.cache

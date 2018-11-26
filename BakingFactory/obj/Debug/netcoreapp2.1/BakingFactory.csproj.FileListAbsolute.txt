@@ -1,0 +1,11 @@
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.deps.json
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.dll
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.pdb
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.dll
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.pdb
+D:\softuni - tech module\Technology Fundamentals\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.csprojAssemblyReference.cache

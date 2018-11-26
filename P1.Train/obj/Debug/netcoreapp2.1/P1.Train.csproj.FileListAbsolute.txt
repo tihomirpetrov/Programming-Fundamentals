@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\P1.Train\bin\Debug\netcoreapp2.1\P1.Train.deps.json
+D:\softuni - tech module\Technology Fundamentals\P1.Train\bin\Debug\netcoreapp2.1\P1.Train.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P1.Train\bin\Debug\netcoreapp2.1\P1.Train.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P1.Train\bin\Debug\netcoreapp2.1\P1.Train.dll
+D:\softuni - tech module\Technology Fundamentals\P1.Train\bin\Debug\netcoreapp2.1\P1.Train.pdb
+D:\softuni - tech module\Technology Fundamentals\P1.Train\obj\Debug\netcoreapp2.1\P1.Train.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P1.Train\obj\Debug\netcoreapp2.1\P1.Train.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P1.Train\obj\Debug\netcoreapp2.1\P1.Train.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P1.Train\obj\Debug\netcoreapp2.1\P1.Train.dll
+D:\softuni - tech module\Technology Fundamentals\P1.Train\obj\Debug\netcoreapp2.1\P1.Train.pdb

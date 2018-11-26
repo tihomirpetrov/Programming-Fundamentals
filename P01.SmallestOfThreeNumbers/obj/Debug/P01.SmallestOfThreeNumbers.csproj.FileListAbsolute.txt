@@ -1,0 +1,6 @@
+D:\softuni - tech module\Technology Fundamentals\P01.SmallestOfThreeNumbers\bin\Debug\P01.SmallestOfThreeNumbers.exe.config
+D:\softuni - tech module\Technology Fundamentals\P01.SmallestOfThreeNumbers\bin\Debug\P01.SmallestOfThreeNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P01.SmallestOfThreeNumbers\bin\Debug\P01.SmallestOfThreeNumbers.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.SmallestOfThreeNumbers\obj\Debug\P01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.SmallestOfThreeNumbers\obj\Debug\P01.SmallestOfThreeNumbers.exe
+D:\softuni - tech module\Technology Fundamentals\P01.SmallestOfThreeNumbers\obj\Debug\P01.SmallestOfThreeNumbers.pdb

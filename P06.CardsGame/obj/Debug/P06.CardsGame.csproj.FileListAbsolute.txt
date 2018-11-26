@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P06.CardsGame\bin\Debug\P06.CardsGame.exe.config
+D:\softuni - tech module\Technology Fundamentals\P06.CardsGame\bin\Debug\P06.CardsGame.exe
+D:\softuni - tech module\Technology Fundamentals\P06.CardsGame\bin\Debug\P06.CardsGame.pdb
+D:\softuni - tech module\Technology Fundamentals\P06.CardsGame\obj\Debug\P06.CardsGame.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P06.CardsGame\obj\Debug\P06.CardsGame.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P06.CardsGame\obj\Debug\P06.CardsGame.exe
+D:\softuni - tech module\Technology Fundamentals\P06.CardsGame\obj\Debug\P06.CardsGame.pdb

@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\Vacation\bin\Debug\Vacation.exe.config
+D:\softuni - tech module\Technology Fundamentals\Vacation\bin\Debug\Vacation.exe
+D:\softuni - tech module\Technology Fundamentals\Vacation\bin\Debug\Vacation.pdb
+D:\softuni - tech module\Technology Fundamentals\Vacation\obj\Debug\Vacation.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\Vacation\obj\Debug\Vacation.exe
+D:\softuni - tech module\Technology Fundamentals\Vacation\obj\Debug\Vacation.pdb

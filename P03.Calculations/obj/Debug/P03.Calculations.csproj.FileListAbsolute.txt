@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P03.Calculations\bin\Debug\P03.Calculations.exe.config
+D:\softuni - tech module\Technology Fundamentals\P03.Calculations\bin\Debug\P03.Calculations.exe
+D:\softuni - tech module\Technology Fundamentals\P03.Calculations\bin\Debug\P03.Calculations.pdb
+D:\softuni - tech module\Technology Fundamentals\P03.Calculations\obj\Debug\P03.Calculations.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P03.Calculations\obj\Debug\P03.Calculations.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P03.Calculations\obj\Debug\P03.Calculations.exe
+D:\softuni - tech module\Technology Fundamentals\P03.Calculations\obj\Debug\P03.Calculations.pdb

@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P08.Snowballs\bin\Debug\P08.Snowballs.exe.config
+D:\softuni - tech module\Technology Fundamentals\P08.Snowballs\bin\Debug\P08.Snowballs.exe
+D:\softuni - tech module\Technology Fundamentals\P08.Snowballs\bin\Debug\P08.Snowballs.pdb
+D:\softuni - tech module\Technology Fundamentals\P08.Snowballs\obj\Debug\P08.Snowballs.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P08.Snowballs\obj\Debug\P08.Snowballs.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P08.Snowballs\obj\Debug\P08.Snowballs.exe
+D:\softuni - tech module\Technology Fundamentals\P08.Snowballs\obj\Debug\P08.Snowballs.pdb

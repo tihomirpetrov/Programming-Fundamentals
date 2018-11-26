@@ -1,0 +1,7 @@
+D:\softuni - tech module\Technology Fundamentals\P02.CenterPoint\bin\Debug\P02.CenterPoint.exe.config
+D:\softuni - tech module\Technology Fundamentals\P02.CenterPoint\bin\Debug\P02.CenterPoint.exe
+D:\softuni - tech module\Technology Fundamentals\P02.CenterPoint\bin\Debug\P02.CenterPoint.pdb
+D:\softuni - tech module\Technology Fundamentals\P02.CenterPoint\obj\Debug\P02.CenterPoint.csprojAssemblyReference.cache
+D:\softuni - tech module\Technology Fundamentals\P02.CenterPoint\obj\Debug\P02.CenterPoint.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P02.CenterPoint\obj\Debug\P02.CenterPoint.exe
+D:\softuni - tech module\Technology Fundamentals\P02.CenterPoint\obj\Debug\P02.CenterPoint.pdb

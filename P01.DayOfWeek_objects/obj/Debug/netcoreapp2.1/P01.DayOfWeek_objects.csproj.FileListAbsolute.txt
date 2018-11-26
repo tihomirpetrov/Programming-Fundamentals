@@ -1,0 +1,10 @@
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\bin\Debug\netcoreapp2.1\P01.DayOfWeek_objects.deps.json
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\bin\Debug\netcoreapp2.1\P01.DayOfWeek_objects.runtimeconfig.json
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\bin\Debug\netcoreapp2.1\P01.DayOfWeek_objects.runtimeconfig.dev.json
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\bin\Debug\netcoreapp2.1\P01.DayOfWeek_objects.dll
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\bin\Debug\netcoreapp2.1\P01.DayOfWeek_objects.pdb
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\obj\Debug\netcoreapp2.1\P01.DayOfWeek_objects.csproj.CoreCompileInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\obj\Debug\netcoreapp2.1\P01.DayOfWeek_objects.AssemblyInfoInputs.cache
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\obj\Debug\netcoreapp2.1\P01.DayOfWeek_objects.AssemblyInfo.cs
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\obj\Debug\netcoreapp2.1\P01.DayOfWeek_objects.dll
+D:\softuni - tech module\Technology Fundamentals\P01.DayOfWeek_objects\obj\Debug\netcoreapp2.1\P01.DayOfWeek_objects.pdb
